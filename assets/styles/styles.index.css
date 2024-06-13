@@ -56,3 +56,12 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+footer {
+    background: linear-gradient(to right, #c21313,#920404);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+}
